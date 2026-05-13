@@ -9,7 +9,7 @@ public class FixedAsset {
         this.value = value;
     }
 
-    public double getValue(){
-        return value;
+    public double getValue() {
+        return 0;
     }
 }
